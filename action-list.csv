@@ -1,0 +1,5 @@
+ID,action_name,cost,demand,benefit,damage-dry,damage-wet,amt_max,amt_min,req,duration
+1,player-action-cropping,3,2 5 5 1,10,1 2 2 1,1 1 1 1,99999,0,,1
+2,player-action-industry,6,4 4 4 4,12,1 1 1 1,1 1 1 1,99999,0,,2
+3,player-action-livestock,5,4 4 5 5,9,1 1 1 1,1 1 1 1,99999,0,,3
+4,player-action-residential,4,3 5 4 2,6,1 1 1 1 ,1 1 1 1,99999,0,,1

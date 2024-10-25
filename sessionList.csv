@@ -1,0 +1,4 @@
+sessionID,gameID,actionListFileName,endowment,numRounds,phasesPerRound,upstream,waterSupplyFileName,upstream_initial,downstream_initial,downstream_drainage,upstream_basin_max,downstream_basin_max,gate_settings
+101,1,action-list.csv,20,5,4,0 2 4 6 8,water_5rounds_4phases_A.csv,20,10,0.2,100,100,0 20 40 60 80
+102,1,action-list.csv,20,5,4,0 2 4 6 8,water_5rounds_4phases_A.csv,20,10,0.2,100,100,0 20 40 60 80
+103,1,action-list.csv,20,5,4,0 2 4 6 8,water_5rounds_4phases_A.csv,20,10,0.2,100,100,0 20 40 60 80
